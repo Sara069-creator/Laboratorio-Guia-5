@@ -1,4 +1,3 @@
-
 # Guia-7
  
                                                      TEOREMA DE THÉVENIN
@@ -116,7 +115,9 @@
     
     - Estudiar el Teorema de Thevenin en nuestro circuito fue muy agradable, ya que no hay ninguna complejidad en hacerlo 
     
-      
+    - Esta practica nos permitió visualizar tanto simuladamente como matemáticamente como se emplea el teorema de Thévenin, ya que este es muy útil  por que  nos  permite 
+    
+      reducir  un  circuito complejo, a uno con una configuracion mas sencilla de analizar.
      
  12. BIBLIOGRAFIA  
 
@@ -145,4 +146,4 @@
 
 ![Anexo 7](https://user-images.githubusercontent.com/75337022/112160408-21aa8a00-8bb8-11eb-9fb4-4ac2c447b28e.jpg)
 
-![Anexo 8](https://user-images.githubusercontent.com/75337022/112160430-28390180-8bb8-11eb-939c-e76e90de1c2c.jpg)
+![Anexo 8](https://user-images.githubusercontent.com/75337022/112160430-28390180-8bb8-11eb-939c-e76e90de1c2c.jpg)                         
