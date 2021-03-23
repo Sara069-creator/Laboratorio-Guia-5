@@ -116,7 +116,7 @@
     
     - Estudiar el Teorema de Thevenin en nuestro circuito fue muy agradable, ya que no hay ninguna complejidad en hacerlo 
     
-    - (Pendiente)  
+      
      
  12. BIBLIOGRAFIA  
 
