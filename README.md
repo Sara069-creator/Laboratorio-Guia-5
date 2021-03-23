@@ -102,10 +102,6 @@
 
 ![Voltaje de Thevenin_page-0001](https://user-images.githubusercontent.com/75337022/112095097-dff2f280-8b69-11eb-96a2-741fc9e2b8f3.jpg)
 
- 10. % DE ERROR
-
-![Cálculo de Error Voltaje de Thevenin_page-0001](https://user-images.githubusercontent.com/75337022/112096907-1ed67780-8b6d-11eb-95e1-c95589394115.jpg)
-
 
  11. CONCLUSIONES
 
